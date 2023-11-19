@@ -1,3 +1,4 @@
 # Power-bi and Tableau
-4 more professional tableau dashboard upload 6 power BI dashboard sales, purchase, revenue, margin, and two more 
-add best and much more u can add 
+4 deloitte level power bi dashboard i need to work on
+
+8 tableau dashboards of good level
